@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-# Set permissions: owner rwx, group r-x, others -wx for hello
 chmod 753 hello

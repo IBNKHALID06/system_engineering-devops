@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-# Add execute permission to owner for hello
 chmod u+x hello

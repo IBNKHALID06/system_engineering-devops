@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-# Set permissions: owner none, group none, others all for hello
 chmod 007 hello
