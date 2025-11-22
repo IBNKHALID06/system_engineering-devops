@@ -1,2 +1,2 @@
-#!/usr/bin/env bash
 chmod 007 hello
+#!/bin/bash

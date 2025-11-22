@@ -1,2 +1,2 @@
-#!/usr/bin/env bash
 chown betty hello
+#!/bin/bash
