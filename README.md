@@ -4,4 +4,5 @@ This repository contains projects and exercises related to system engineering an
 
 ## Projects
 
+- **0x01-shell_permissions**: Shell permissions scripts implementing user switching, ownership and permission tasks
 - **0x03-shell_variables_expansions**: Shell initialization files, variables and expansions
